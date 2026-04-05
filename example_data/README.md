@@ -16,4 +16,3 @@ C2: Mitotracker 555
 C3: HOECHST 405
 
 C4: Phalloidin 647
-O'Hora, B. (2026). CZI-to-Mito Preprocessor: Example Data [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19427507 
