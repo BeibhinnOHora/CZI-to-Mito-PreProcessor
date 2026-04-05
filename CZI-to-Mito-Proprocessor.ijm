@@ -5,7 +5,7 @@
  * Author: Béibhinn O'Hora
  * Affiliation: Virus and Cellular Stress Unit, Institut Pasteur, Paris, France
  * Contact: beibhinn.ohora@pasteur.fr; jean-pierre.vartanian@pasteur.fr
- * DOI: 
+ * DOI: https://doi.org/10.5281/zenodo.19427507
  * Date: April 2026
  * Version: 1.0
  *
